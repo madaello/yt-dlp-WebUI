@@ -71,6 +71,8 @@ The yt-dlp log and the play/download logs are written as hidden files in the dow
 
 5. Open `http://YOUR_SERVER/yt-dlp/` in the browser.
 
+A step-by-step guide (in Italian) to installing it on a Raspberry Pi with Apache: [yt-dlp sul Raspberry Pi](https://www.nwp.to.it/installazione-yt-dlp/).
+
 ### Keep yt-dlp up to date
 
 Sites change often and an old yt-dlp soon stops working. Add a weekly update to your crontab (`crontab -e`):
