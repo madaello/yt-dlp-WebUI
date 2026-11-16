@@ -90,13 +90,17 @@ sudo git pull
 
 `config/config.php` is not part of the repository, so your settings are kept.
 
+## Support
+
+This is a personal project, maintained in my spare time: bug reports and suggestions are welcome, but I can't promise quick fixes or new features.
+
 ## Credits
 
 - [p1rox](https://github.com/p1rox) for the original [Youtube-dl WebUI](https://github.com/p1rox/Youtube-dl-WebUI)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [Bootstrap](https://getbootstrap.com/) and [Bootstrap Icons](https://icons.getbootstrap.com/)
 
-This is a personal project, maintained in my spare time: bug reports and suggestions are welcome, but I can't promise quick fixes or new features.
 ## License
 
 MIT, like the original project. See [LICENSE](LICENSE).
+
